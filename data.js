@@ -16,10 +16,10 @@ export const portfolioData = {
    * Social media and professional links.
    */
   links: {
-    instagram: "https://www.instagram.com/kavin_1518",
+    instagram: "https://www.instagram.com/kavin_1518_",
     facebook: "#", // Use "#" if you don't have a link
     github: "https://github.com/Kavinkumar-BTech",
-    linkedin: "",
+    linkedin: "https://www.linkedin.com/in/kavin-kumar-3876172bb",
   },
 
   /**
@@ -29,7 +29,7 @@ export const portfolioData = {
     hero: "./assets/hero.png",
     about: "./assets/about.png",
     resumeImg: "./assets/resume.jpg",
-    resumePdf: "./assets/Resume/Karthikeyan_CV.pdf",
+    resumePdf: "./assets/Resume/Karthkeyan_CV.pdf",
     resumeDownloadName: "Karthikeyan_CV.pdf",
   },
 
