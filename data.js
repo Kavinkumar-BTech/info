@@ -16,10 +16,10 @@ export const portfolioData = {
    * Social media and professional links.
    */
   links: {
-    instagram: "https://instagram.com/karthi_fsd",
+    instagram: "https://www.instagram.com/kavin_1518",
     facebook: "#", // Use "#" if you don't have a link
-    github: "https://github.com/Karthikeyan-BE",
-    linkedin: "https://linkedin.com/in/karthikeyan-t-82b2992a7",
+    github: "https://github.com/Kavinkumar-BTech",
+    linkedin: "",
   },
 
   /**
